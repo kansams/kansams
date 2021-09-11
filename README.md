@@ -1,0 +1,3 @@
+- Hello, I’m @kansams
+- I am very new to this 
+- I am learning to use Python but would like to learn other languages 
